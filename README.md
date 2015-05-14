@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/reergymerej/template.svg)](https://travis-ci.org/reergymerej/template)
+
 ```js
 
 var template = require('template');
